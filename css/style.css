@@ -856,10 +856,18 @@ ul {
     display: none;
   }
 
+  .logo {
+    width: 160px;
+  }
+
   .hamburger {
   display: block;
   }
   
+  .title-text {
+    font-size: 40px;
+  }
+
   .trends-content-wrp {
     width: calc(100% / 2 - 5px);
   }
