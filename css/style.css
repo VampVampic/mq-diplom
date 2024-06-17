@@ -848,6 +848,7 @@ ul {
 
 
 @media (min-width: 641px) and (max-width: 1199px) {
+
   .header {
     background-image: url(../images/banner-bg-tablet.jpg);
   }
@@ -881,8 +882,10 @@ ul {
   }
 
   .news {
-    flex-direction: column;
+    flex-direction: column;    
+    border-bottom: 3px solid #eeeeee;
   }
+  
 
   .category {
     margin-top: 17px;
