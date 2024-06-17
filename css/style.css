@@ -937,6 +937,10 @@ ul {
     width: 100%;
   }
 
+  .trends-title {
+    margin-top: 44px;
+  }
+
   .flex {
     flex-direction: column;
   }
@@ -950,6 +954,7 @@ ul {
   .news {
     flex-direction: column;
     margin-right: 15px;
+    border-bottom: 3px solid #eeeeee;
   }
 
   .foto {
